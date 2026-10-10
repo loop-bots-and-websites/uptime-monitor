@@ -4,6 +4,8 @@ A small Python script that watches your websites and sends you a **Discord messa
 
 No packages to install. You only need Python 3.8 or newer.
 
+This is how to run it on your computer/device. If you want to run it 24/7, you need to find a hoster (ie HeavenCloud, no I am not advertising them) and upload the files there.
+
 ## How it works
 
 1. You give it a list of websites.
